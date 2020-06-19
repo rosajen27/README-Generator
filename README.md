@@ -1,6 +1,7 @@
 
 # Good README Generator
 [![GitHub license](https://img.shields.io/badge/license-MIT%20License-blue.svg)](https://github.com/rosajen27)
+
 Video Demonstration: https://tinyurl.com/rosajen27-readme
 
 ## Description
