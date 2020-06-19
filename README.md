@@ -29,12 +29,12 @@ If you created an application or package and would like other developers to cont
         
 Go the extra mile and write tests for your application. Then provide examples on how to run them.
 
-## Questions?
+## Questions
 
 
 
 
-More Questions? Contact: [rosajen27](https://github.com/rosajen27) 
+Contact: [rosajen27](https://github.com/rosajen27) 
 directly at rosajen27@gmail.com.
 
 ![avatar](https://avatars2.githubusercontent.com/u/60906506?v=4)

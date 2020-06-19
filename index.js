@@ -124,10 +124,10 @@ async function generateReadme(answers){
   
     if(answers.Github !== ""){
         questions= `
-## Questions?
+## Questions
 \n${answers.Questions}
 \n
-More Questions? Contact: [${answers.Github}](https://github.com/${answers.Github}) 
+Contact: [${answers.Github}](https://github.com/${answers.Github}) 
 directly at ${answers.email}.
 
 ![avatar](${avatar})
