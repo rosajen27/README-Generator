@@ -31,7 +31,10 @@ Tests
 
 ## Questions?
 
-Contact: [rosajen27](https://github.com/rosajen27) 
+Questions
+
+
+More Questions? Contact: [rosajen27](https://github.com/rosajen27) 
 directly at rosajen27@gmail.com.
 
 ![avatar](https://avatars2.githubusercontent.com/u/60906506?v=4)
