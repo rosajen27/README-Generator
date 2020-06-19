@@ -31,11 +31,11 @@ Go the extra mile and write tests for your application. Then provide examples on
 
 ## Questions?
 
-N/A
+
 
 
 More Questions? Contact: [rosajen27](https://github.com/rosajen27) 
-directly at Rosajen27@gmail.com.
+directly at rosajen27@gmail.com.
 
 ![avatar](https://avatars2.githubusercontent.com/u/60906506?v=4)
         
