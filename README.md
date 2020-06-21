@@ -58,6 +58,13 @@ Example of README: https://github.com/rosajen27/README-Generator/blob/master/USE
 
 ![demo3](./assets/Capture3.JPG)
 
+
+![demo4](./assets/Capture4.JPG)
+
+
+![demo5](./assets/Capture5.JPG)
+
+
 ## Authors
 
   - **Jennifer Rosa**
