@@ -47,6 +47,9 @@ The user will then be prompted for their GitHub username and other information p
 
 Video Demonstration: https://tinyurl.com/rosajen27-readme
 
+Example of README: https://github.com/rosajen27/README-Generator/blob/master/USERREADME.md
+
+
 ![demo1](./assets/capture.JPG)
 
 
