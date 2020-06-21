@@ -50,13 +50,13 @@ Video Demonstration: https://tinyurl.com/rosajen27-readme
 Example of README: https://github.com/rosajen27/README-Generator/blob/master/USERREADME.md
 
 
-![demo1](./assets/capture.JPG)
+![demo1](./assets/Capture.JPG)
 
 
-![demo2](./assets/capture2.JPG)
+![demo2](./assets/Capture2.JPG)
 
 
-![demo3](./assets/capture3.JPG)
+![demo3](./assets/Capture3.JPG)
 
 ## Authors
 
