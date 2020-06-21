@@ -21,13 +21,19 @@ A command-line application that dynamically generates a README.md from a user's 
 
 ## Installation 
         
-Downloaded Node.js and Visual Studio Code
+Download Node.js and Visual Studio Code
 
 Open up the README generator file
 
 Open the terminal and make sure you are on the correct file path
 
-Install inquirer by using the command "npm install inquirer" 
+Install inquirer by using the command "npm install inquirer"
+
+Install fs by using the command "npm install fs"
+
+Install util by using the command "npm install util"
+
+Install axios by using the command "npm install axios"
 
 In the terminal call the command "node index.js"
 
